@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "title": "Florentino reference catalog — training overlay",
+  "game_version": "1.64.11789525",
+  "update_channel": "public-catalog",
+  "notice": "Metadata only. This does not unlock skins, modify ownership, reveal hidden opponents, or control gameplay.",
+  "skins": [
+    {
+      "skin_id": 52100,
+      "label": "Florentino · 52100",
+      "icon_key": "305210.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52101,
+      "label": "Florentino · 52101",
+      "icon_key": "305211.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52102,
+      "label": "Florentino · 52102",
+      "icon_key": "305212.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52103,
+      "label": "Florentino · 52103",
+      "icon_key": "305213.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52104,
+      "label": "Florentino · 52104",
+      "icon_key": "305214.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52105,
+      "label": "Florentino · 52105",
+      "icon_key": "305215.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52106,
+      "label": "Florentino · 52106",
+      "icon_key": "305216.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52107,
+      "label": "Florentino · 52107",
+      "icon_key": "305217.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52108,
+      "label": "Florentino · 52108",
+      "icon_key": "305218.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52109,
+      "label": "Florentino · 52109",
+      "icon_key": "305219.jpg",
+      "has_shop_row": false
+    },
+    {
+      "skin_id": 52110,
+      "label": "Florentino · 52110",
+      "icon_key": "3052110.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52111,
+      "label": "Florentino · 52111",
+      "icon_key": "3052111_B44.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52112,
+      "label": "Florentino · 52112",
+      "icon_key": "3052112.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52113,
+      "label": "Florentino · 52113",
+      "icon_key": "3052113.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52114,
+      "label": "Florentino · 52114",
+      "icon_key": "3052114.jpg",
+      "has_shop_row": true
+    },
+    {
+      "skin_id": 52115,
+      "label": "Florentino · 52115",
+      "icon_key": "3052115.jpg",
+      "has_shop_row": false
+    }
+  ],
+  "training": {
+    "focus": "aim practice with draggable marker and Florentino input-cache timing",
+    "order": [
+      "A1",
+      "S1",
+      "S2",
+      "A2",
+      "S21",
+      "A3",
+      "S22",
+      "U1"
+    ]
+  }
+}
